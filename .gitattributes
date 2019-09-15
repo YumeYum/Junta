@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-*.Javascript linguist-vendored
+src/js/* linguist-vendored # exact, absolute path
